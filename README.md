@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @fasunareuu
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python.
+- 🌱 I’m currently learning: JavaScrip
