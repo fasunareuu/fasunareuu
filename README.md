@@ -23,7 +23,7 @@
 
 ### The languages and tools I'm learning & use now  :
 
-<img src="https://skills.thijs.gg/icons?i=js,nodejs,html,css,apple,vscode&theme=light"/>
+<img src="https://skills.thijs.gg/icons?i=js,nodejs,html,css,apple,vscode,ae,ps&theme=light"/>
 
 ### My Stats:
 <p>
