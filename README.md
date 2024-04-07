@@ -15,26 +15,25 @@
 
 ---
 
-### a bit info About me 👇🏻
+### a bit info About me: 👇🏻
 
 - ☀️ I'm 17 y.o beginer programmer
 - 💻 Learning JavaScript
 - ⏳ I want to be a Frontend Developer!
 
+
+
 ### The languages and tools I'm learning & use now  :
 
 <img src="https://skills.thijs.gg/icons?i=js,nodejs,html,css,apple,vscode,ae,ps&theme=light"/>
 
-### My Stats:
-<p>
-  <img width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=fasunareuu&show_icons=true&theme=tokyonight&hide_border=true">
-</p>
-
 ### My social media:
----
-  <a href="https://t.me/JesseRecruiter" style="text-decoration: none;"><img src="https://github.com/reden1k/reden1k/assets/45299992/d5052f4a-1308-48c1-b472-d461740e8900" width="40" height="40"/></a>
+<a href="https://t.me/JesseRecruiter" style="text-decoration: none;"><img src="https://github.com/reden1k/reden1k/assets/45299992/d5052f4a-1308-48c1-b472-d461740e8900" width="40" height="40"/></a>
 </div>
-  <div id="counter">
-    <img src="https://komarev.com/ghpvc/?username=fasunareuu"/>
-  </div>
-    
+
+### My Stats:
+<a href="http://www.github.com/fasunareuu"><img src="https://github-readme-stats.vercel.app/api?username=fasunareuu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fasunareu's GitHub stats" /></a>
+
+<a href="https://github.com/fasunareuu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasunareuu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="My top Languages" /></a>
+
+---
