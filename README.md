@@ -1,4 +1,4 @@
-  <h1 align="center">
+z  <h1 align="center">
     Hello everyone!
   </h1>
   
@@ -25,8 +25,7 @@
 
 ### The languages and tools I'm learning & use now  :
 
-<img src="https://skills.thijs.gg/icons?i=js,nodejs,html,css,apple,vscode,ae,ps&theme=light"/>
-
+[![My Skills](https://skillicons.dev/icons?i=apple,js,jquery,html,css,vscode,discord&theme=light)](https://skillicons.dev)
 ### My social media:
 <a href="https://t.me/JesseRecruiter" style="text-decoration: none;"><img src="https://github.com/reden1k/reden1k/assets/45299992/d5052f4a-1308-48c1-b472-d461740e8900" width="40" height="40"/></a>
 </div>
