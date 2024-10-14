@@ -1,38 +1,19 @@
-  <h1 align="center">
-    Hello everyone!
-  </h1>
-  
-  <p align="center">
-    <b>and welcome to my github page!</b>
-  </p>
-  
-  <div align="center">
-    <img src="https://i.pinimg.com/originals/1b/0f/3d/1b0f3d7500a655e0192fc7614719f072.gif" alt="7ds gif" width="700" height="370"/>
+<h1 align="center">💻 ngSiren</h1>
+
+<h3 align="center">Languages</h1>
+<div align="center">
+  <div>
+    <img src="https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26">
+    <img src="https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6">
   </div>
-
-  
-</div>
-
----
-
-### a bit info About me: 👇🏻
-
-- ☀️ I'm 17 y.o beginer programmer
-- 💻 Learning JavaScript
-- ⏳ I want to be a Frontend Developer!
+  <div>
+    <img src="https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux&logoColor=white">
+  </div>
+</p>
 
 
-
-### The languages and tools I'm learning & use now  :
-
-[![My Skills](https://skillicons.dev/icons?i=apple,js,jquery,html,css,vscode,discord&theme=light)](https://skillicons.dev)
-### My social media:
-<a href="https://t.me/JesseRecruiter" style="text-decoration: none;"><img src="https://github.com/reden1k/reden1k/assets/45299992/d5052f4a-1308-48c1-b472-d461740e8900" width="40" height="40"/></a>
-</div>
-
-### My Stats:
-<a href="http://www.github.com/fasunareuu"><img src="https://github-readme-stats.vercel.app/api?username=fasunareuu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fasunareu's GitHub stats" /></a>
-
-<a href="https://github.com/fasunareuu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasunareuu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="My top Languages" /></a>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fsnareuu&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
