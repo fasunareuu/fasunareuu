@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone I'm ngSiren 💻</h1>
+<h1 align="center">Hello everyone I'm NgSiren 💻</h1>
 
 <h3 align="center">Languages</h1>
 <div align="center">
@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=61DAF">
-    <img src="https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord&logoColor=5661E7">
   </div>
 </p>
 
