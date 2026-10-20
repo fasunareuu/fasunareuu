@@ -1,21 +1,26 @@
-<h1 align="center">Hello everyone</h1>
-
-<h3 align="center">Languages</h1>
-<div align="center">
-  <div>
-    <img src="https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26">
-    <img src="https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6">
-    <img src="https://img.shields.io/badge/apple-090909?style=for-the-badge&logo=apple&logoColor=white">
-     <img src="https://img.shields.io/badge/jquery-090909?style=for-the-badge&logo=jquery&logoColor=0F68AC">
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=61DAF">
-  </div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=E03C8A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+NgSiren+%F0%9F%91%8B;Telegram+bots+%C2%B7+Web+apps+%C2%B7+DevOps;Building+the+NGS+ecosystem" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://ngsirendev.ru"><img src="https://img.shields.io/badge/Portfolio-ngsirendev.ru-e03c8a?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Telegram_bots-2%2B_years-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</p>
+
+<h3 align="center">Стек</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fasunareuu&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,fastapi,vite,tailwind,html,css,swift&theme=dark&perline=12" />
+</p>
+
+<h3 align="center">Инфраструктура</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,docker,cloudflare,githubactions,git,sqlite,postgres,redis,vscode&theme=dark&perline=12" />
+</p>
+
+<h3 align="center">Статистика</h3>
+
+<p align="center">
+  <img src="https://ngs-gh-stats.fdyf8qcmfy.workers.dev/?user=fasunareuu" />
 </p>
