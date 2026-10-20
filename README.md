@@ -17,9 +17,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,cloudflare,githubactions,git,sqlite,postgres,vscode&theme=dark&perline=12" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Proxmox-home_lab-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
-</p>
 
 <h3 align="center">Статистика</h3>
 
