@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://ngsirendev.ru"><img src="https://img.shields.io/badge/Portfolio-ngsirendev.ru-e03c8a?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Telegram_bots-2%2B_years-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </p>
 
